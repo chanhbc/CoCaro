@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Caro:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Caro_jar2</output-path>
+    <root id="archive" name="Caro.jar">
+      <element id="module-output" name="Caro" />
+    </root>
+  </artifact>
+</component>
